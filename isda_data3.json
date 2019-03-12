@@ -1,0 +1,11 @@
+[
+	{
+        "text": "\"Rounding\". The Delivery Amount will be rounded up to the nearest integral multiple of GBP 10,000 and the Return Amount will be rounded down to the nearest integral multiple of GBP 10,000.",
+        "delivery_currency": "GBP",
+        "delivery_amount": "10,000",
+        "delivery_rounding": "up",
+        "return_currency": "GBP",
+        "return_amount": "10,000",
+        "return_rounding": "down"
+    }
+]

@@ -1,0 +1,11 @@
+[
+	{
+        "text": "Rounding. The Delivery Amount and the Return Amount will be rounded to the nearest integral multiple of USD 10,000 provided that if an amount corresponds to the exact half of such multiple, then it will be rounded up; and provided further that, for the purpose of the calculation of the Return Amount where a party's Credit Support Amount is, or is deemed to be, zero, the Return Amount shall not be rounded.",
+        "delivery_currency": "USD",
+        "delivery_amount": "10,000",
+        "delivery_rounding": "nearest",
+        "return_currency": "USD",
+        "return_amount": "10,000",
+        "return_rounding": "nearest"
+    }
+]
